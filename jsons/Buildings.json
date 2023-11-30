@@ -3,95 +3,95 @@
                 "name": "Wall Reinforcement",
                 "requiredBuilding": "Walls",
 		"requiredTech": "Masonry",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Wall Reinforcement] [in this city] <hidden from users>","Provides [1] [City Defence Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Wall Reinforcement] [in this city] <hidden from users>","Instantly provides [1] [City Defence Modifier]",
                         "+1% City Defence Strength","[+1]% Strength for cities <when defending> <for [9999] turns> <hidden from users>"]
         },
         {
                 "name": "Irrigations",
                 "requiredBuilding": "Granary",
 		"requiredTech": "Calendar",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Irrigations] [in this city] <hidden from users>","Provides [1] [City Food Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Irrigations] [in this city] <hidden from users>","Instantly provides [1] [City Food Modifier]",
                         "+1% City Food Yield","[+1]% [Food] [in this city] <for [9999] turns> <hidden from users>"]
         },
 	{
 		"name": "Masterpieces",
                 "requiredBuilding": "Monument",
 		"requiredTech": "Drama and Poetry",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Masterpieces] [in this city] <hidden from users>","Provides [1] [City Culture Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Masterpieces] [in this city] <hidden from users>","Instantly provides [1] [City Culture Modifier]",
                         "+1% City Culture Yield","[+1]% [Culture] [in this city] <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Manufacture Districts",
                 "requiredBuilding": "Workshop",
 		"requiredTech": "Metal Casting",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Manufacture Districts] [in this city] <hidden from users>","Provides [1] [City Production Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Manufacture Districts] [in this city] <hidden from users>","Instantly provides [1] [City Production Modifier]",
                         "+1% City Production Yield","[+1]% [Production] [in this city] <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Investment",
                 "requiredBuilding": "Factory",
 		"requiredTech": "Industrialization",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Investment] [in this city] <hidden from users>","Provides [10] [City Production Modifier] <for [10] turns>",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Investment] [in this city] <hidden from users>","Instantly provides [10] [City Production Modifier]","Instantly consumes [10] [City Production Modifier] <after [10] turns>",
                         "+10% City Production Yield during 10 turns","[+10]% [Production] [in this city] <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Small Shrine",
                 "requiredBuilding": "Shrine",
 		"requiredTech": "Archery",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Small Shrine] [in this city] <hidden from users>","Provides [1] [City Faith Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Small Shrine] [in this city] <hidden from users>","Instantly provides [1] [City Faith Modifier]",
                         "+1% City Faith Yield","[+1]% [Faith] [in this city] <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Trade Association",
                 "requiredBuilding": "Market",
 		"requiredTech": "Guilds",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Trade Association] [in this city] <hidden from users>","Provides [2] [City Gold Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Trade Association] [in this city] <hidden from users>","Instantly provides [2] [City Gold Modifier]",
                         "+2% City Gold Yield","[+2]% [Gold] [in this city] <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Siege Mastery",
                 "requiredBuilding": "Barracks",
 		"requiredTech": "Physics",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Siege Mastery] [in this city] <hidden from users>","Provides [1] [Siege Strength Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Siege Mastery] [in this city] <hidden from users>","Instantly provides [1] [Siege Strength Modifier]",
                         "+1% Strength for Siege units","[+1]% Strength <for [Siege] units> <for [9999] turns> <hidden from users>"]
 	}
 	{
 		"name": "Counterattack Mastery",
                 "requiredBuilding": "Barracks",
 		"requiredTech": "Bronze Working",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Counterattack Mastery] [in this city] <hidden from users>","Provides [1] [Defence Strength Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Counterattack Mastery] [in this city] <hidden from users>","Instantly provides [1] [Defence Strength Modifier]",
                         "+1% Defence for All units","[+1]% Strength <when defending> <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Combat Mastery",
                 "requiredBuilding": "Barracks",
 		"requiredTech": "Bronze Working",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Combat Mastery] [in this city] <hidden from users>","Provides [1] [Attack Strength Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Combat Mastery] [in this city] <hidden from users>","Instantly provides [1] [Attack Strength Modifier]",
                         "+1% Attack Strength for All units","[+1]% Strength <when attacking> <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Tactics Mastery",
 		"requiredTech": "Chivalry",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Tactics Mastery] [in this city] <hidden from users>","Provides [1] [Mounted and Armored Strength Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Tactics Mastery] [in this city] <hidden from users>","Instantly provides [1] [Mounted and Armored Strength Modifier]",
                         "+1% Strength for Mounted and Armored units","[+1]% Strength <for [Armored] units> <for [9999] turns> <hidden from users>","[+1]% Strength <for [Mounted] units> <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Air Port",
 		"requiredTech": "Flight",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Air Port] [in this city] <hidden from users>","Provides [1] [Aeroplane Defence and Healing Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Air Port] [in this city] <hidden from users>","Instantly provides [1] [Aeroplane Defence and Healing Modifier]",
                         "+1 HP Healing and +1% Strength vs cities for Air units","[+1] HP when healing <for [Air] units> <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Missile Silo",
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["Only available <if [Manhattan Project] is constructed>","Can be continually purchased","Unbuildable","Remove [Missile Silo] [in this city] <hidden from users>","Provides [1] [Missile Age Modifier]",
+		"uniques": ["Only available <if [Manhattan Project] is constructed>","Can be continually purchased","Unbuildable","Remove [Missile Silo] [in this city] <hidden from users>","Instantly provides [1] [Missile Age Modifier]",
                         "+10% Strength and +5% Construct Speed (in this city) for Missile units","[+10]% Strength <for [Missile] units> <for [9999] turns> <hidden from users>","[+5]% Production when constructing [Missile] units [in this city] <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Capitalism",
 		"requiredBuilding": "Bank",
 		"requiredTech": "Economics",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Capitalism] [in this city] <hidden from users>","Provides [1] [Cost Reduce Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Capitalism] [in this city] <hidden from users>","Instantly provides [1] [Cost Reduce Modifier]",
                         "Cost of purchasing items [-1]% in all cities","[Gold] cost of purchasing items in cities [-1]% <for [9999] turns> <hidden from users>"]
 	}
 ]
