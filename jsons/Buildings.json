@@ -1,6 +1,7 @@
 [
         {
                 "name": "Wall Reinforcement",
+		"cost": 75,
                 "requiredBuilding": "Walls",
 		"requiredTech": "Masonry",
 		"uniques": ["Can be continually purchased","Unbuildable","Remove [Wall Reinforcement] [in this city] <hidden from users>","Instantly provides [1] [City Defence Modifier]",
