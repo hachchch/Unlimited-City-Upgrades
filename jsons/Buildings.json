@@ -91,7 +91,7 @@
 		"cost": 500,
 		"requiredTech": "Flight",
 		"uniques": ["Can be continually purchased","Unbuildable","Remove [Air Port] [in this city] <hidden from users>","Instantly provides [1] [Aeroplane Defence and Healing Modifier]",
-                        "+1 HP Healing and +6% Strength vs cities for Air units","[+6]% Strength <vs cities> <for [Air] units> <for [9999] turns> <hidden from users>","[+1] HP when healing <for [Air] units> <for [9999] turns> <hidden from users>"]
+                        "+1 HP Healing and +6% Strength vs cities for Air units","[+1] HP when healing <for [Air] units> <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Missile Silo",
