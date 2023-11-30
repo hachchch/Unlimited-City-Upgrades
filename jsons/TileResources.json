@@ -2,66 +2,66 @@
         {
                 "name": "City Defence Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "City Food Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "City Culture Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "City Production Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "City Faith Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "City Gold Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "Siege Strength Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "Defence Strength Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "Attack Strength Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "Mounted and Armored Strength Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "Aeroplane Defence and Healing Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "Missile Age Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
         {
                 "name": "Cost Reduce Modifier",
                 "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screenNot shown on world screen"],
+                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         }
 ]
