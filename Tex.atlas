@@ -10,7 +10,7 @@ BuildingIcons/Irrigations
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Irrigations
+ResourceIcons/Irrigations
   rotate: false
   xy: 0, 0
   size: 200, 200
@@ -24,7 +24,7 @@ BuildingIcons/Air Port
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Air Port
+ResourceIcons/Air Port
   rotate: false
   xy: 200, 0
   size: 200, 200
@@ -38,7 +38,7 @@ BuildingIcons/Manufacture Districts
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Manufacture Districts
+ResourceIcons/Manufacture Districts
   rotate: false
   xy: 400, 0
   size: 200, 200
@@ -52,7 +52,7 @@ BuildingIcons/Wall Reinforcement
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Wall Reinforcement
+ResourceIcons/Wall Reinforcement
   rotate: false
   xy: 600, 0
   size: 200, 200
@@ -66,7 +66,7 @@ BuildingIcons/Counterattack Mastery
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Counterattack Mastery
+ResourceIcons/Counterattack Mastery
   rotate: false
   xy: 800, 0
   size: 200, 200
@@ -80,7 +80,7 @@ BuildingIcons/Investment
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Investment
+ResourceIcons/Investment
   rotate: false
   xy: 1000, 0
   size: 200, 200
@@ -94,7 +94,7 @@ BuildingIcons/Capitalism
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Capitalism
+ResourceIcons/Capitalism
   rotate: false
   xy: 1200, 0
   size: 200, 200
@@ -108,7 +108,7 @@ BuildingIcons/Small Shrine
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Small Shrine
+ResourceIcons/Small Shrine
   rotate: false
   xy: 0, 200
   size: 200, 200
@@ -122,7 +122,7 @@ BuildingIcons/Missile Silo
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Missile Silo
+ResourceIcons/Missile Silo
   rotate: false
   xy: 200, 200
   size: 200, 200
@@ -136,7 +136,7 @@ BuildingIcons/Masterpieces
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Masterpieces
+ResourceIcons/Masterpieces
   rotate: false
   xy: 400, 200
   size: 200, 200
@@ -150,7 +150,7 @@ BuildingIcons/Tactics Mastery
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Tactics Mastery
+ResourceIcons/Tactics Mastery
   rotate: false
   xy: 600, 200
   size: 200, 200
@@ -164,7 +164,7 @@ BuildingIcons/Combat Mastery
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Combat Mastery
+ResourceIcons/Combat Mastery
   rotate: false
   xy: 800, 200
   size: 200, 200
@@ -178,7 +178,7 @@ BuildingIcons/Trade Association
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Trade Association
+ResourceIcons/Trade Association
   rotate: false
   xy: 1000, 200
   size: 200, 200
@@ -192,7 +192,7 @@ BuildingIcons/Siege Mastery
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Siege Mastery
+ResourceIcons/Siege Mastery
   rotate: false
   xy: 1200, 200
   size: 200, 200
