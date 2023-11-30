@@ -1,0 +1,12 @@
+[
+        {
+                "name": "Wall Reinforcement",
+                "requiredBuilding": "Walls",
+		"requiredTech": "Masonry",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Wall Reinforcement] [in this city] <hidden from users>","Provides [1] [City Defence Modifier] <hidden from users>",
+                        "+1% City Defence Strength","[+1]% Strength for cities <when defending> <for [9999] turns> <hidden from users>"]
+        },
+        {
+                
+        }
+]
