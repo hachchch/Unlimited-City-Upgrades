@@ -1,0 +1,73 @@
+[
+        {
+                "name": "Centralization",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 10,
+            "Domination": 10,
+            "Scientific": 0
+        },
+        "uniques": ["[+25]% [Gold] [in capital]"],
+        "policies": [
+            {
+                "name": "Capital Accumulation",
+                "uniques": [
+                    "[+1] Movement <for [{Military} {Water}] units>",
+                    "[+1] Sight <for [{Military} {Water}] units>",
+                    "Free [Great General] appears"
+                    // "[+2] Movement <for [Great Admiral] units>"
+                    // ToDo: Should be "Free [Great Admiral] appears"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Opportunism",
+                "uniques": [
+                    "[-33]% maintenance on road & railroads",
+                    "[+1 Gold] from every [Harbor]",
+                    "[+1 Gold] from every [Seaport]"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Free Market",
+                "uniques": ["[+3 Production] [in all coastal cities]"],
+                "requires": ["Naval Tradition"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Adhocracy",
+                "uniques": [
+                    "[Gold] cost of purchasing items in cities [-25]%",
+                    "[+1 Science] from every [Mint]",
+                    "[+1 Science] from every [Market]",
+                    "[+1 Science] from every [Bank]",
+                    "[+1 Science] from every [Stock Exchange]"
+                ],
+                "requires": ["Decentralization"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Economic Domination",
+                "uniques": [""],
+                "requires": ["Free Market"],
+                "row": 3,
+                "column": 2
+            },
+            {
+                "name": "Centralization Complete",
+                "uniques": [
+                    "[+1 Gold] from every [Trading post]",
+                    "[+100]% Gold from Great Merchant trade missions",
+                    "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                ]
+            }
+        ]
+        }
+]
