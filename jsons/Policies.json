@@ -9,16 +9,17 @@
             "Domination": 10,
             "Scientific": 0
         },
-        "uniques": ["[+25]% [Gold] [in capital]"],
+        "uniques": ["Gain a free [Trade Association] [in all cities]",
+        "Gain a free [Capitalism] [in all cities]"],
         "policies": [
             {
                 "name": "Capital Accumulation",
                 "uniques": [
-                    "[+1] Movement <for [{Military} {Water}] units>",
-                    "[+1] Sight <for [{Military} {Water}] units>",
-                    "Free [Great General] appears"
-                    // "[+2] Movement <for [Great Admiral] units>"
-                    // ToDo: Should be "Free [Great Admiral] appears"
+                        "[+10]% [Faith] <when above [9] [City Faith Modifier]>",
+                        "[+5]% [Production] [in all cities] <when above [9] [City Production Modifier]>",
+                        "[+5]% [Food] [in all cities] <when above [9] [City Food Modifier]>",
+                        "[+10]% [Culture] <when above [9] [City Culture Modifier]>",
+                    "[+20]% [Gold] <when above [19] [City Gold Modifier]>"
                 ],
                 "row": 1,
                 "column": 2
@@ -26,36 +27,32 @@
             {
                 "name": "Opportunism",
                 "uniques": [
-                    "[-33]% maintenance on road & railroads",
-                    "[+1 Gold] from every [Harbor]",
-                    "[+1 Gold] from every [Seaport]"
+                    "[+4 Gold] [in all cities] <during a Golden Age>"
                 ],
                 "row": 1,
                 "column": 4
             },
             {
                 "name": "Free Market",
-                "uniques": ["[+3 Production] [in all coastal cities]"],
-                "requires": ["Naval Tradition"],
+                "uniques": ["[Gold] cost of purchasing [Trade Association] buildings [-25]%",
+                "[Gold] cost of purchasing [Capitalism] buildings [-25]%"],
+                "requires": ["Capital Accumulation"],
                 "row": 2,
                 "column": 2
             },
             {
                 "name": "Adhocracy",
                 "uniques": [
-                    "[Gold] cost of purchasing items in cities [-25]%",
-                    "[+1 Science] from every [Mint]",
-                    "[+1 Science] from every [Market]",
-                    "[+1 Science] from every [Bank]",
-                    "[+1 Science] from every [Stock Exchange]"
+                    "[Gold] cost of purchasing [Combat Mastery] buildings [-25]% <when at war>",
+                        "[Gold] cost of purchasing [Counterattack Mastery] buildings [-25]% <when at war>"
                 ],
-                "requires": ["Decentralization"],
+                "requires": ["Opportunism"],
                 "row": 2,
                 "column": 4
             },
             {
                 "name": "Economic Domination",
-                "uniques": [""],
+                "uniques": ["100% increase in gold boost gained from the next Trade Association purchase"],
                 "requires": ["Free Market"],
                 "row": 3,
                 "column": 2
@@ -63,9 +60,8 @@
             {
                 "name": "Centralization Complete",
                 "uniques": [
-                    "[+1 Gold] from every [Trading post]",
-                    "[+100]% Gold from Great Merchant trade missions",
-                    "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "Gold required for repurchasable buildings has been reduced by 20%",
+                        "[Gold] cost of purchasing [Can be continually purchased] buildings [-20]% <hidden from users>"
                 ]
             }
         ]
