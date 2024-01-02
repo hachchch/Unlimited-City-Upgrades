@@ -12,7 +12,7 @@
 		"cost": 75,
                 "requiredBuilding": "Granary",
 		"requiredTech": "Calendar",
-		"uniques": ["Can be continually purchased","Unbuildable","[+3000 Happiness]","Remove [Irrigations] [in this city] <when above [2000] [Happiness]> <hidden from users>","[-3000 Happiness]","Instantly provides [3] [City Food Modifier]",
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Irrigations] [in this city] <hidden from users>","Instantly provides [3] [City Food Modifier]",
                         "+3% City Food Yield","[+3]% [Food] [in this city] <for [9999] turns> <hidden from users>"]
         },
 	{
