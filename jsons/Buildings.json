@@ -4,32 +4,32 @@
 		"cost": 75,
                 "requiredBuilding": "Walls",
 		"requiredTech": "Masonry",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Wall Reinforcement] [in this city] <hidden from users>","Instantly provides [1] [City Defence Modifier]",
-                        "+1% City Defence Strength","[+1]% Strength for cities <when defending> <for [9999] turns> <hidden from users>"]
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Wall Reinforcement] [in this city] <hidden from users>","Instantly provides [3] [City Defence Modifier]",
+                        "+3% City Defence Strength","[+3]% Strength for cities <when defending> <for [9999] turns> <hidden from users>"]
         },
         {
                 "name": "Irrigations",
 		"cost": 75,
                 "requiredBuilding": "Granary",
 		"requiredTech": "Calendar",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Irrigations] [in this city] <hidden from users>","Instantly provides [1] [City Food Modifier]",
-                        "+1% City Food Yield","[+1]% [Food] [in this city] <for [9999] turns> <hidden from users>"]
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Irrigations] [in this city] <hidden from users>","Instantly provides [3] [City Food Modifier]",
+                        "+3% City Food Yield","[+3]% [Food] [in this city] <for [9999] turns> <hidden from users>"]
         },
 	{
 		"name": "Masterpieces",
 		"cost": 100,
                 "requiredBuilding": "Monument",
 		"requiredTech": "Drama and Poetry",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Masterpieces] [in this city] <hidden from users>","Instantly provides [1] [City Culture Modifier]",
-                        "+1% City Culture Yield","[+1]% [Culture] [in this city] <for [9999] turns> <hidden from users>"]
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Masterpieces] [in this city] <hidden from users>","Instantly provides [3] [City Culture Modifier]",
+                        "+3% City Culture Yield","[+3]% [Culture] [in this city] <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Manufacture Districts",
 		"cost": 120,
                 "requiredBuilding": "Workshop",
 		"requiredTech": "Metal Casting",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Manufacture Districts] [in this city] <hidden from users>","Instantly provides [1] [City Production Modifier]",
-                        "+1% City Production Yield","[+1]% [Production] [in this city] <for [9999] turns> <hidden from users>"]
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Manufacture Districts] [in this city] <hidden from users>","Instantly provides [3] [City Production Modifier]",
+                        "+3% City Production Yield","[+3]% [Production] [in this city] <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Investment",
@@ -37,23 +37,23 @@
                 "requiredBuilding": "Factory",
 		"requiredTech": "Industrialization",
 		"uniques": ["Can be continually purchased","Unbuildable","Remove [Investment] [in this city] <hidden from users>","Instantly provides [10] [City Production Modifier]","Instantly consumes [10] [City Production Modifier] <after [10] turns>",
-                        "+10% City Production Yield during 10 turns","[+10]% [Production] [in this city] <for [9999] turns> <hidden from users>"]
+                        "+10% City Production Yield during 10 turns","[+10]% [Production] [in this city] <for [10] turns> <hidden from users>"]
 	},
 	{
 		"name": "Small Shrine",
 		"cost": 60,
                 "requiredBuilding": "Shrine",
 		"requiredTech": "Archery",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Small Shrine] [in this city] <hidden from users>","Instantly provides [1] [City Faith Modifier]",
-                        "+1% City Faith Yield","[+1]% [Faith] [in this city] <for [9999] turns> <hidden from users>"]
+		"uniques": ["Can be continually purchased","Unbuildable","Remove [Small Shrine] [in this city] <hidden from users>","Instantly provides [3] [City Faith Modifier]",
+                        "+3% City Faith Yield","[+3]% [Faith] [in this city] <for [9999] turns> <hidden from users>"]
 	},
 	{
 		"name": "Trade Association",
 		"cost": 120,
                 "requiredBuilding": "Market",
 		"requiredTech": "Guilds",
-		"uniques": ["Can be continually purchased","Unbuildable <hidden from users>","Remove [Trade Association] [in this city] <hidden from users>","Instantly provides [2] [City Gold Modifier]",
-                        "+2% City Gold Yield","[+2]% [Gold] [in this city] <for [9999] turns> <hidden from users> <before adopting [Economic Domination]>","[+4]% [Gold] [in this city] <for [9999] turns> <hidden from users> <after adopting [Economic Domination]>"]
+		"uniques": ["Can be continually purchased","Unbuildable <hidden from users>","Remove [Trade Association] [in this city] <hidden from users>","Instantly provides [3] [City Gold Modifier] <before adopting [Economic Domination]>","Instantly provides [6] [City Gold Modifier] <after adopting [Economic Domination]>",
+                        "+3% City Gold Yield","[+3]% [Gold] [in this city] <for [9999] turns> <hidden from users> <before adopting [Economic Domination]>","[+6]% [Gold] [in this city] <for [9999] turns> <hidden from users> <after adopting [Economic Domination]>"]
 	},
 	{
 		"name": "Siege Mastery",
