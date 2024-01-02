@@ -14,11 +14,11 @@
             {
                 "name": "Capital Accumulation",
                 "uniques": [
-                        "[+10]% [Faith] <when above [9] [City Faith Modifier]>",
-                        "[+5]% [Production] [in all cities] <when above [9] [City Production Modifier]>",
-                        "[+5]% [Food] [in all cities] <when above [9] [City Food Modifier]>",
-                        "[+10]% [Culture] <when above [9] [City Culture Modifier]>",
-                    "[+20]% [Gold] <when above [19] [City Gold Modifier]>"
+                        "[+10]% [Faith] <when above [29] [City Faith Modifier]>",
+                        "[+5]% [Production] [in all cities] <when above [29] [City Production Modifier]>",
+                        "[+5]% [Food] [in all cities] <when above [29] [City Food Modifier]>",
+                        "[+10]% [Culture] <when above [29] [City Culture Modifier]>",
+                    "[+10]% [Gold] <when above [29] [City Gold Modifier]>"
                 ],
                 "row": 1,
                 "column": 2
