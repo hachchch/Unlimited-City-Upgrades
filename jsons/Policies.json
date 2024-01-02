@@ -9,8 +9,7 @@
             "Domination": 10,
             "Scientific": 0
         },
-        "uniques": ["Gain a free [Trade Association] [in all cities]",
-        "Gain a free [Capitalism] [in all cities]"],
+        "uniques": ["[+2 Gold] [in capital]","Production to [Gold] conversion in cities changed by [+10]%"],
         "policies": [
             {
                 "name": "Capital Accumulation",
