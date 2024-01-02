@@ -52,8 +52,8 @@
 		"cost": 120,
                 "requiredBuilding": "Market",
 		"requiredTech": "Guilds",
-		"uniques": ["Can be continually purchased","Unbuildable","Remove [Trade Association] [in this city] <hidden from users>","Instantly provides [2] [City Gold Modifier]",
-                        "+2% City Gold Yield","[+2]% [Gold] [in this city] <for [9999] turns> <hidden from users>"]
+		"uniques": ["Can be continually purchased","Unbuildable <hidden from users>","Remove [Trade Association] [in this city] <hidden from users>","Instantly provides [2] [City Gold Modifier]",
+                        "+2% City Gold Yield","[+2]% [Gold] [in this city] <for [9999] turns> <hidden from users> <before adopting [Economic Domination]>","[+4]% [Gold] [in this city] <for [9999] turns> <hidden from users> <after adopting [Economic Domination]>"]
 	},
 	{
 		"name": "Siege Mastery",
