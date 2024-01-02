@@ -9,7 +9,7 @@
             "Domination": 10,
             "Scientific": 0
         },
-        "uniques": ["Gain a free [Irrigations] [in capital]","[+2 Gold] [in capital]","Production to [Gold] conversion in cities changed by [+10]%"],
+        "uniques": ["Gain a free [Irrigations] [in capital]","Remove [Irrigations] [in capital]","[+2 Gold] [in capital]","Production to [Gold] conversion in cities changed by [+10]%"],
         "policies": [
             {
                 "name": "Capital Accumulation",
